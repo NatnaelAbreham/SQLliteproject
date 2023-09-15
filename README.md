@@ -1,7 +1,7 @@
 # SQLliteproject
 This program built for android application.  
 To build or update this program first you have to install android studio.   
-This application support 4.4 and above android version.  
+This application supported by 4.4 and above android version.  
 Sometime you can get some error message like can't build ,gradle sync fail.  
 If you got error when try to build the application you have to create a new android java project and copy each java, layout and drawable file to the project.  
  
